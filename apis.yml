@@ -1,0 +1,32 @@
+aid: guerrilla-mail
+name: Guerrilla Mail
+description: "Disposable temporary Email addresses"
+url: https://www.guerrillamail.com/GuerrillaMailAPI.html
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Email"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Email
+  - Public APIs
+apis:
+  - name: Guerrilla Mail
+    description: "Disposable temporary Email addresses"
+    humanURL: https://www.guerrillamail.com/GuerrillaMailAPI.html
+    baseURL: https://www.guerrillamail.com/GuerrillaMailAPI.html
+    tags:
+      - Email
+    properties:
+      - type: Documentation
+        url: https://www.guerrillamail.com/GuerrillaMailAPI.html
+common:
+  - type: Website
+    url: https://www.guerrillamail.com/GuerrillaMailAPI.html
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
